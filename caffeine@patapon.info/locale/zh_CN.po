@@ -379,3 +379,10 @@ msgstr "菜单中状态指示器的真实位置偏移，包括不可见的"
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:118
 msgid "Last item index in indicator menu"
 msgstr "菜单中的最后一项"
+
+msgid "Inhibit sleep on lid close"
+msgstr "合盖时阻止休眠"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "当盖子关闭时，防止笔记本电脑进入睡眠状态"
+

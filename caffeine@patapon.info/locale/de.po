@@ -384,3 +384,10 @@ msgstr "Tatsächlicher Versatz des Statussymbols im Indikatormenü"
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:118
 msgid "Last item index in indicator menu"
 msgstr "Index des letzten Elements im Indikatormenü"
+
+msgid "Inhibit sleep on lid close"
+msgstr "Ruhezustand beim Schließen des Deckels verhindern"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "Verhindert, dass der Laptop beim Schließen des Deckels in den Ruhezustand wechselt"
+

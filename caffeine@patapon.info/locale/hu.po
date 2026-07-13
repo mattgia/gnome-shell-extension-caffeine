@@ -409,3 +409,10 @@ msgstr ""
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:123
 msgid "Last item index in indicator menu"
 msgstr "Utolsó elem indexe az állapotjelző menüben"
+
+msgid "Inhibit sleep on lid close"
+msgstr "Alvás megakadályozása a fedél lezárásakor"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "Megakadályozza a laptop elalvását, amikor a fedél le van zárva"
+

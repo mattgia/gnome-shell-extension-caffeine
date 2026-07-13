@@ -388,3 +388,10 @@ msgstr ""
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:118
 msgid "Last item index in indicator menu"
 msgstr ""
+
+msgid "Inhibit sleep on lid close"
+msgstr "Förhindra vänteläge när locket stängs"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "Förhindrar att den bärbara datorn går i vänteläge när locket stängs"
+

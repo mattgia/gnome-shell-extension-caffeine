@@ -418,3 +418,10 @@ msgstr ""
 msgid "Last item index in indicator menu"
 msgstr "Poslední index položky v nabídce indikátorů"
 
+
+msgid "Inhibit sleep on lid close"
+msgstr "Zabránit uspání při zavření víka"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "Zabrání uspání notebooku po zavření víka"
+

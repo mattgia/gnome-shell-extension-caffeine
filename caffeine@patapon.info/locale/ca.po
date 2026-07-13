@@ -399,3 +399,10 @@ msgstr "Índex de l'últim element al menú indicador"
 
 #~ msgid "Llista de durades del temporitzador"
 #~ msgstr "Cronòmetre de llarga durada"
+
+msgid "Inhibit sleep on lid close"
+msgstr "Inhibeix la suspensió en tancar la tapa"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "Evita que el portàtil se suspengui quan es tanca la tapa"
+

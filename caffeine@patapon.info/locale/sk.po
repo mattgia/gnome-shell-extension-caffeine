@@ -383,3 +383,10 @@ msgstr ""
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:118
 msgid "Last item index in indicator menu"
 msgstr "Index poslednej položky v ponuke indikátora"
+
+msgid "Inhibit sleep on lid close"
+msgstr "Zabrániť uspaniu pri zavretí veka"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "Zabráni prechodu notebooku do režimu spánku pri zavretom veku"
+

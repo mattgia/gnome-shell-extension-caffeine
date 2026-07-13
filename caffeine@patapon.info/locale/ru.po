@@ -414,3 +414,10 @@ msgstr ""
 msgid "Last item index in indicator menu"
 msgstr "Индекс последнего пункта в меню индикатора"
 
+
+msgid "Inhibit sleep on lid close"
+msgstr "Запретить спящий режим при закрытии крышки"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "Предотвращает переход ноутбука в спящий режим при закрытой крышке"
+

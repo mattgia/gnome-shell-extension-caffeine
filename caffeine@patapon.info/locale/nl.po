@@ -388,3 +388,10 @@ msgstr ""
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:118
 msgid "Last item index in indicator menu"
 msgstr "Vorige itemlocatie in indicatormenu"
+
+msgid "Inhibit sleep on lid close"
+msgstr "Slaapstand voorkomen bij sluiten deksel"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "Voorkomt dat de laptop in slaapstand gaat wanneer het deksel gesloten is"
+
