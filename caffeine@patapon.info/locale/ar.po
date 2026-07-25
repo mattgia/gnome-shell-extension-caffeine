@@ -389,3 +389,10 @@ msgstr ""
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:118
 msgid "Last item index in indicator menu"
 msgstr "فهرس آخر الأغراض في قائمة المؤشر"
+
+msgid "Inhibit sleep on lid close"
+msgstr "منع السكون عند إغلاق الغطاء"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "منع الكمبيوتر المحمول من النوم عند إغلاق الغطاء"
+

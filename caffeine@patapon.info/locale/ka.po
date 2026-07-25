@@ -423,3 +423,10 @@ msgstr "ბოლო ელემენტის ინდექსი მაჩ
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:127
 msgid "Command line key to toggle state"
 msgstr "ბრძანების სტრიქონის პარამეტრი მდგომარეობის გადასართავად"
+
+msgid "Inhibit sleep on lid close"
+msgstr "ძილის რეჟიმის აღკვეთა თავსახურის დახურვისას"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "ლეპტოპის ძილის რეჟიმში გადასვლის აღკვეთა თავსახურის დახურვისას"
+

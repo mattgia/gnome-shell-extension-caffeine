@@ -401,3 +401,10 @@ msgstr ""
 #: schemas/org.gnome.shell.extensions.caffeine.gschema.xml:118
 msgid "Last item index in indicator menu"
 msgstr "Δείκτης τελευταίου στοιχείου στο μενού ενδείξεων"
+
+msgid "Inhibit sleep on lid close"
+msgstr "Αποτροπή αναστολής κατά το κλείσιμο του καπακιού"
+
+msgid "Prevent the laptop from going to sleep when the lid is closed"
+msgstr "Αποτρέπει τη μετάβαση του φορητού υπολογιστή σε αναστολή όταν το καπάκι είναι κλειστό"
+
